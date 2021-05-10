@@ -1,11 +1,12 @@
 import React from 'react'
+import NavBar from './components/NavBar'
 
 class App extends React.Component {
     render() {
       return <div className="ui container">
-        <h1>In App component.</h1>
+        <NavBar />
       </div>
     }
   };
 
-export default App
+export default App;

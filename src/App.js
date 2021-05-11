@@ -10,6 +10,7 @@ class App extends React.Component {
     render() {
       return <div className="ui container">
         <Route path='/' component={NavBar} />
+        <Route path='/' exact component={Home} />
         <Route path='/home' exact component={Home} />
         <Route path='/about' exact component={About} />
         <Route path='/projects' exact component={Projects} />

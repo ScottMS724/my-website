@@ -5,19 +5,19 @@ const NavBar = () => {
     return (
         <div className="ui clearing segment ui inverted segment">
             <div className="ui right floated header">
-                <Link to='/home' className="item font20">
+                <Link to='/home' className="item fontsize20">
                     Home<span> &nbsp; </span>
                 </Link>
 
-                <Link to='/about' className="item font20">
+                <Link to='/about' className="item fontsize20">
                     About<span> &nbsp; </span>
                 </Link>
 
-                <Link to='/projects' className="item font20">
+                <Link to='/projects' className="item fontsize20">
                     Projects<span> &nbsp; </span>
                 </Link>
                 
-                <Link to='/contact' className="item font20">
+                <Link to='/contact' className="item fontsize20">
                     Contact
                 </Link>
             </div>

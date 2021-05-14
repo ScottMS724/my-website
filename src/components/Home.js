@@ -9,7 +9,7 @@ const Home = () => {
 
             <p>(pic)</p>
 
-            <p>Please click the links above to learn more about me and some recent apps I have programmed.</p>
+            <p>Please click the links above to learn more about me, some recent apps I have programmed, and how to contact.</p>
 
            <p>(pic)</p>
         </div>

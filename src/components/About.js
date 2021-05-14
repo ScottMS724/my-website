@@ -9,7 +9,7 @@ const About = () => {
             building full stack web apps with a React/Redux frontend and Ruby on Rails API backend. My goal when writing code is to
             prioritize readability and adaptability through the use of established best practices and conventions. I love finding simple
             solutions to common problems through code. I have a B.S. in biology and
-            previous personal training experience, which I believe gives me a unique background and set of soft skills 
+            previous personal training experience which I believe gives me a unique background and set of soft skills 
             to apply in the tech world.</p>
 
             <p>I know that software engineering is an ever-evolving field that is constantly in flux. An open, inquisive mind 

@@ -18,7 +18,7 @@ const NavBar = () => {
                 </Link>
                 
                 <Link to='/contact' className="item fontsize20">
-                    Contact
+                    Contact <span> &nbsp; </span>
                 </Link>
             </div>
             <div className="ui left floated header ui orange header">

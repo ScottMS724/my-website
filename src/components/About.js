@@ -15,8 +15,11 @@ const About = () => {
             <p>I know that software engineering is an ever-evolving field that is constantly in flux. An open, inquisive mind 
             willing to learn new things is the key to success, and I embrace the challenge.</p>
 
-            <p>When I'm not programming, my hobbies and interests include PC gaming, weight lifting, biology, and being a podcast junkie. I'm also a
-            huge Mets fan. (icon)</p>
+            <p>Please check out my <a href="https://scottms724.github.io/" target="_blank" rel="noopener noreferrer">programming blog</a> if you would like to 
+            read some of my musings on coding in general.</p>
+
+            <p>When I'm not programming, my hobbies and interests include PC gaming, weight-lifting, biology, and being a podcast junkie. I'm also a
+            big Mets fan. <i class="baseball ball icon"></i></p> 
         </div>
     );
 };

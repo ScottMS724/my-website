@@ -5,3 +5,8 @@
 .fontsize20 {
     font-size: 20px
 }
+
+.imgresize {
+    height: 300px;
+    width: 800px; 
+}

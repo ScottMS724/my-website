@@ -8,9 +8,9 @@ const Home = () => {
 
             <p>Hi, my name is Scott Silverman. I'm a full stack web developer from New York. Welcome to my website.</p>
 
-            <img src={Headshot} alt="picture"/>
+            <img src={Headshot} alt=""/>
 
-            <p>Please click the links above to learn more about me, some recent apps I have programmed, and how to contact.</p>
+            <p>Please click the links above to learn more about me, some recent projects I have programmed, and how to contact.</p>
         </div>
     );
 };

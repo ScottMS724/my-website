@@ -10,7 +10,6 @@ const Contact = () => {
             <div className="fontsize20">
                 <a href="https://github.com/ScottMS724" target="_blank" rel="noopener noreferrer">GitHub</a><span> &nbsp; </span>
                 <a href="https://www.linkedin.com/in/scott-m-silverman/" target="_blank" rel="noopener noreferrer">LinkedIn</a><span> &nbsp; </span>
-                <a href="https://www.facebook.com/scottms/" target="_blank" rel="noopener noreferrer">Facebook</a>
             </div>
         </div>
     );

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
     return (
-        <div>
+        <div className="ui segment">
             <h1>Contact</h1>
 
             <h3><a href="mailto:ScottMS724@gmail.com">ScottMS724@gmail.com</a> <i class="envelope icon"></i> </h3>

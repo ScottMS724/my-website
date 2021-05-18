@@ -2,6 +2,10 @@
     background-color: black 
 }
 
+.bgolive {
+    background-color: #32CD32
+}
+
 .fontsize20 {
     font-size: 20px
 }
@@ -9,4 +13,9 @@
 .imgresize {
     height: 300px;
     width: 800px; 
+}
+
+.headshotsize {
+    height: 300px;
+    width: 50%;
 }

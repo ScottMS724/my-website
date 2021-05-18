@@ -5,7 +5,7 @@ import SteamGames from '../steamgamesscreenshot.jpg'
 
 const Projects = () => {
     return (
-        <div>
+        <div className="ui segment">
             <h1>Projects</h1>
 
             <h4>Stadium Tracker</h4>

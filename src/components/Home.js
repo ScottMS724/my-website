@@ -10,7 +10,7 @@ const Home = () => {
                     <img className="headshotsize" src={Headshot} alt=""/>
                 </div>
                 <div className="column">
-                    <p className="ui right floated header">Hi, my name is Scott Silverman. I'm a full stack web developer from New York. Welcome to my website. 
+                    <p className="fontsize30">Hi, my name is Scott Silverman. I'm a full stack web developer from New York. Welcome to my website. 
                     Please click the links above to learn more about me, some recent projects I have programmed, and how to contact.</p>
                 </div>
             </div>

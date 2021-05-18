@@ -6,11 +6,11 @@ const About = () => {
             <h1>About Me</h1>
 
             <p className="fontsize20">As a graduate of Flatiron School's software engineering course, I have significant experience
-            building full stack web apps with a React/Redux frontend and Ruby on Rails API backend. My goal when writing code is to
-            prioritize readability and adaptability through the use of established best practices and conventions. I enjoy finding simple
-            solutions to common problems through code. I have a B.S. in biology and
-            previous personal training experience which I believe gives me a unique background and set of soft skills 
-            to apply in the tech world.</p>
+            building full stack web apps with a React/Redux frontend and Ruby on Rails API backend, and using Git, PostgreSQL, Bootstrap, 
+            and Semantic UI. My goal when writing code is to prioritize readability and adaptability through the use of established 
+            best practices and conventions. I enjoy finding simple solutions to common problems through code. 
+            I have a B.S. in biology and previous personal training experience which I believe gives me a unique background and 
+            set of soft skills to apply in the tech world.</p>
 
             <p className="fontsize20">I know that software engineering is an ever-evolving field that is constantly in flux. An open, inquisive mind 
             willing to learn new things is the key to success, and I embrace the challenge.</p>

@@ -15,7 +15,7 @@ const About = () => {
             <p className="fontsize20">I know that software engineering is an ever-evolving field that is constantly in flux. An open, inquisive mind 
             willing to learn new things is the key to success, and I embrace the challenge.</p>
 
-            <p className="fontsize20">Please check out my <a href="https://scottms724.github.io/" target="_blank" rel="noopener noreferrer">programming blog</a> if you would like to 
+            <p className="fontsize20">Please feel free to check out my <a href="//rebrand.ly/ti32pxh" target="_blank" rel="noopener noreferrer">resume</a>, as well as my <a href="https://scottms724.github.io/" target="_blank" rel="noopener noreferrer">programming blog</a> if you would like to 
             read some of my musings on coding in general.</p>
 
             <p className="fontsize20">When I'm not programming, my hobbies and interests include PC gaming, weight-lifting, biology, and being a podcast junkie. I'm also a

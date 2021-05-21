@@ -10,7 +10,7 @@ const About = () => {
             and Semantic UI. My goal when writing code is to prioritize readability and adaptability through the use of established 
             best practices and conventions. I enjoy finding simple solutions to common problems through code. 
             I have a B.S. in biology from Boston University and previous experience working as a professional, certified (NSCA) personal trainer and physical therapists' aide. 
-            This gives me a unique background in client-facing jobs where I developed strong, interpersonal skills. Combined with my technical skills developed with Flatiron, I
+            This gives me a unique background in client-facing jobs where I developed strong interpersonal skills. Combined with my technical skills honed with Flatiron, I
             believe this background will be a valuable asset in the tech world.</p>
 
             <p className="fontsize20">I know that software engineering is an ever-evolving field that is constantly in flux. An open, inquisive mind 

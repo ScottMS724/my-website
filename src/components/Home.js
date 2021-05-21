@@ -11,7 +11,7 @@ const Home = () => {
                 </div>
                 <div className="column">
                     <p className="fontsize30">Hi, my name is Scott Silverman. I'm a full stack web developer from New York. Welcome to my website. 
-                    I am currently searching for my first professional web developer position.
+                    I am currently searching for a full stack web developer position.
                     Please click the links above to learn more about me, some recent projects I have programmed, and how to contact.</p>
                 </div>
             </div>

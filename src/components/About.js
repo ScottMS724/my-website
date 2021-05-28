@@ -6,7 +6,7 @@ const About = () => {
             <h1>About Me</h1>
 
             <p className="fontsize20">As a graduate of Flatiron School's software engineering course, I have significant experience
-            building full stack web apps with a React/Redux frontend and Ruby on Rails API backend, and using Git, PostgreSQL, RESTful API conventions, Bootstrap, 
+            building full stack web apps with a React/Redux frontend and Ruby on Rails API backend, and using Git, SQL, RESTful API conventions, Bootstrap, 
             and Semantic UI. My goal when writing code is to prioritize readability and adaptability through the use of established 
             best practices and conventions. I enjoy finding simple solutions to common problems through code. 
             I have a B.S. in biology from Boston University and previous experience working as a professional, certified (NSCA) personal trainer and physical therapists' aide. 
